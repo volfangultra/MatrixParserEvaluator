@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1642203451 source:c:\users\emin\dropbox\fakultet\za fakultet\projekti\matrica\matrica.cpp
+	"Matrica.h"
+	<iostream>
+	<initializer_list>
+	<iomanip>
+	<string>
+
+1641257062 c:\users\emin\dropbox\fakultet\za fakultet\projekti\matrica\matrica.h
+	<string>
+	<initializer_list>
+	<iostream>
+	<cmath>
+	<vector>
+	<stack>
+
+1641315352 source:c:\users\emin\dropbox\fakultet\za fakultet\projekti\matrica\matricaparserevaluator.cpp
+	"Matrica.h"
+	<iostream>
+	<stack>
+	<cmath>
+	<vector>
+
